@@ -78,7 +78,6 @@
       to { opacity: 1; }
     }
   </style>
-</head>
 <body>
 
   <!-- 🎉 Homepage Section -->
@@ -111,7 +110,19 @@
 <section id="letter">
   <h2>Corny na, egul egul</h2>
   <div class="letter">
-    o10, wala pa
+Happy 16th Birthday, Seigy!!!
+  <br>
+First of all, thank you, soafer. Thank you sa lahat ng kakulitan, sa mga moments na kahit super asar ka na or naiirita ka na sakin, andiyan ka pa rin BWAHAH kahit ilang ulit na akong kulit nang kulit, hindi ka pa rin sumusuko (slight lang). Thank you rin sa mga times na tinutulungan mo ako kahit hindi mo naman kailangan, sa mga simpleng bagay na hindi mo alam, sobrang laking tulong na pala sakin.
+<br>
+You’ve always been that one consistent energy sa group :ppp mapagbirong kuya-ish figure na minsan sabaw, minsan seryoso, minsan chaotic, pero laging present. Ikaw ‘yung nagpapasaya sa COF sa mga panahong tahimik, awkward, o malungkot kami kahit ikaw lang yung lalaki sa group, hindi ka nagkulang sa pagiging part ng barkada, actually, sobra pa nga... sobra sa kakulitan.
+<br>
+Hindi ko makakalimutan ‘yung mga times na down kaming lahat, pero nandun ka, minsan para magpatawa, minsan para makinig lang. Soafer laki ng impact mo, inang impacto ka, kahit hindi mo sinasabi o pinapakita madalas. Ang dami mong binigay na good memories... good at bad and ang dami mong na-save na moments from becoming sad or heavy just by being you kahit hindi mo sinasadyang maging light sa paligid namin, you always are.
+<br>
+Corny pero you deserve so much love and happiness. You’ve given so much of that to us, sa bawat tawa, hirit, at asar mo  and I hope on your special day, maramdaman mo rin lahat ng pagmamahal na deserve mong matanggap. You're not just a friend really, you've become a part of our lives na that despite your... nakakainis na ugali, we still love ya.
+<br>
+Enjoy your 16th birthday! Kumain ka ng madami, tumawa ka ng malakas, at magpahinga ka rin (kung pwede HAHA). Lagi mong tatandaan na mahalaga ka samin, at hindi ka nag-iisa kasi lagi kaming nasa tabi mo, nangkulit HAHAHAHAHA
+<br>
+Happy birthday ulit!! 
   </div>
   <br>
   <button class="next-button" onclick="showSection('final')">Last na to.</button>
